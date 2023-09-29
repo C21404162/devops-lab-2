@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "Updated Code!"
 echo "Please enter num 1: "
 read num1
 
